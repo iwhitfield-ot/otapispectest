@@ -28,3 +28,5 @@ jobs:
       # Runs a validation against swagger and open api specs
       - name: Swagger-cli
         uses: mpetrunic/swagger-cli-action@v1.0.0
+        with:
+          command: "validate apis/cms.json"
