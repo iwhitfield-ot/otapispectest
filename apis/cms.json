@@ -1,6 +1,7 @@
 {
     "openapi": "3.0.0",
     "info": {
+        "title": "OT2 Content Metadata Service API",
         "description": "CMS handles object metadata. CMS APIs are tenant-based. Service/User Token is requested for accessing these APIs. Objects can be documents, files, folders, business objects, relationships and permissions. Namespaces, Categories, Types and  Traits are used for domain specific business logic. Content uploads and downloads can be done by these APIs as well. Validations and Localizations can be customized. Retention, History, Search, Filtering and Scripts are supported. Deployment bundling, upgrade, case modeling and templates are available. Default namespace is provided. System categories are cms_file, cms_folder and cms_object. User can create customized category, type definition and trait definition based on the business needs. Object instances are created based on the category, type and trait. Type can be extendable based on business needs. ETS, OTDS (Identity and Auth) and Content Storage Service (CSS) are pre-requisites to use CMS.",
         "version": "1.0.0"
     },
