@@ -29,7 +29,7 @@
         },
         {
             "name": "Categories",
-            "description": "Categories of  type definitions. Out of the box categories - OBJECT, FILE, FOLDER, CASE, RELATIONSHIP. Provide common behaviors and avoids bloating of unwanted attributes."
+            "description": "Categories of type definitions. Out of the box categories - OBJECT, FILE, FOLDER, CASE, RELATIONSHIP. Provide common behaviors and avoids bloating of unwanted attributes."
         },
         {
             "name": "Group",
