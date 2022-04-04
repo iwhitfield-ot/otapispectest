@@ -25,7 +25,7 @@
     "tags": [
         {
             "name": "Service",
-            "description": "List of top level service endpoints"
+            "description": "List of top level service endpoints "
         },
         {
             "name": "Categories",
